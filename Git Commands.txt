@@ -23,5 +23,14 @@ Track Status for all
 - git add --all or git add -A or git add .
 
 Commit
-- get commit -
+- get commit -m "First commit"
+
+Diff
+- get diff
+
+Work File - Staging - Commit
+
+Commit and bypass stating
+- git commit -a -m "Comments"
+
 

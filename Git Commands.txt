@@ -1,0 +1,27 @@
+https://www.youtube.com/watch?v=tRZGeaHPoaw
+
+Git Commands
+
+Global settings
+- git config --global user.name "John Leintz"
+- git config --global user.email "jaleintz@gmail.com"
+- git config --global init.default branch main
+- git config --list
+
+Initialize
+- git init
+- git status
+
+Track Status for one
+- git add index.htm
+- git rm --cached docA.txt
+
+Git Ignore
+- .gitignore
+
+Track Status for all
+- git add --all or git add -A or git add .
+
+Commit
+- get commit -
+

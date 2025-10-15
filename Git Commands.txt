@@ -33,4 +33,21 @@ Work File - Staging - Commit
 Commit and bypass stating
 - git commit -a -m "Comments"
 
+Remove a file
+- git rm filename.txt
+
+Restore a file
+- git restore --staged filename.txt
+
+Rename
+- git mv "docB.txt" "docC.txt"
+
+Log
+- git log
+- git log --oneline
+- git log -p
+
+Amend
+git commit -m "Updated description" --amend
+
 

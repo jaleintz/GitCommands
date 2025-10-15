@@ -58,6 +58,12 @@ Branch
 Delete Branch
 - git branch -d ChangeDoc
 
+Merge
+- git merge -m "merge back to master" ChangeDoc
+
+Delete a branch
+- git branch -D ChangeDoc
+
 
 
 

@@ -2,4 +2,6 @@ This is a merge test from two different branches
 
 This is merge test01 from two different branches
 
-This is merge test02 from two different branches
+This really is merge test02 from two different branches
+
+This was added while in master branch

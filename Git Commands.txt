@@ -54,6 +54,7 @@ Branch
 - git branch
 - git branch ChangeDoc
 - git switch ChangeDoc
+- got switch -c NewBranch
 
 Delete Branch
 - git branch -d ChangeDoc

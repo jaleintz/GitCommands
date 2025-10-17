@@ -65,7 +65,13 @@ Merge
 Delete a branch
 - git branch -D ChangeDoc
 
-
+Push existing local rep to GitHub
+- create a repo on GitHub
+- git remote add origin 
+	>https://github.com/jaleintz/GitCommands.git
+- git branch -M master 
+- git branch
+- git push -u origin master 
 
 
 
